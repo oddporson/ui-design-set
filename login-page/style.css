@@ -38,3 +38,19 @@ form {
   justify-content: center;
   padding: 40px;
 }
+
+.btn {
+  background-color: #141c2c;
+  border: 2px solid #141c2c;
+  color: white;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: inherit;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 10px;
+  margin: 20px 0;
+  width: 100%;
+}
