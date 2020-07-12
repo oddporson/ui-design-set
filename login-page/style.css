@@ -53,4 +53,16 @@ form {
   padding: 10px;
   margin: 20px 0;
   width: 100%;
+  cursor: pointer;
+}
+
+.btn-ghost {
+  background-color: transparent;
+  border-color: #ecf2ff;
+  color: #141c2c;
+}
+
+.btn-img {
+  margin-right: 5px;
+  width: 20px;
 }
