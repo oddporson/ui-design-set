@@ -10,4 +10,8 @@ An User Interface Design Daily challenge I am taking where I try and replicate e
 
 ### Login page
 
-!['screenshot of login'](https://github.com/oddporson/ui-design-set/blob/master/docs/login.png);
+!['screenshot of login'](https://github.com/oddporson/ui-design-set/blob/master/docs/login.png)
+
+### Ads Manager
+
+!['screenshot of ad managers'](https://github.com/oddporson/ui-design-set/blob/master/docs/ads-manager-table.png)
