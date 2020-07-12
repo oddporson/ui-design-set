@@ -37,6 +37,7 @@ form {
   align-items: center;
   justify-content: center;
   padding: 40px;
+  flex: 1;
 }
 
 .form-control {
@@ -104,4 +105,32 @@ input:not([type='checkbox']) {
 .btn-img {
   margin-right: 5px;
   width: 20px;
+}
+
+.features {
+  flex: 1.5;
+  padding: 40px;
+}
+
+.feature {
+  padding-left: 30px;
+  position: relative;
+  margin: 40px 0;
+}
+
+.feature i {
+  color: #2762eb;
+  position: absolute;
+  top: 5px;
+  left: 0;
+}
+
+.feature h3 {
+  margin: 0;
+}
+
+.feature p {
+  font-size: 14px;
+  line-height: 1.8;
+  margin: 5px 0;
 }
