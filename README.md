@@ -1,8 +1,6 @@
-# Porson's UI Design Set
+# Porson's Daily Design Challenges
 
-A collection of user experience design to understand the interaction between real human users and everyday products and services, such as websites, apps, and even a microwave.
-
-These are purely CSS without the use of bootstrap.
+An User Interface Design Daily challenge I am taking where I try and replicate existing designs to hone the skills of HTML and CSS and not use any bootstrap.
 
 ## Final Product
 
